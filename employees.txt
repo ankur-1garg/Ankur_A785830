@@ -1,0 +1,40 @@
+ID: 1
+Name: John
+Role: Manager
+Basic: 5000
+Hra: 1000
+Da: 500
+Total_salary: 6500
+
+ID: 2
+Name: Alice
+Role: Developer
+Basic: 6000
+Hra: 1200
+Da: 600
+Total_salary: 7800
+
+ID: 3
+Name: Bob
+Role: Designer
+Basic: 5500
+Hra: 1100
+Da: 550
+Total_salary: 7150
+
+ID: 4
+Name: Charlie
+Role: Tester
+Basic: 4800
+Hra: 900
+Da: 480
+Total_salary: 6180
+
+ID: 5
+Name: Eve
+Role: Support
+Basic: 4500
+Hra: 850
+Da: 450
+Total_salary: 5800
+
